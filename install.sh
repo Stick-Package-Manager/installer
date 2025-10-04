@@ -165,7 +165,7 @@ show_menu() {
     echo ""
     echo -e "  ${GREEN}2)${NC} Stick Lite ${CYAN}(Minimal version)${NC}"
     echo -e "     - Only install and remove"
-    echo -e "     - Ultra-lightweight (<1 KB)"
+    echo -e "     - Ultra-lightweight (<2 KB)"
     echo -e "     - No dependencies tracking"
     echo ""
     echo -e "  ${GREEN}3)${NC} Stickfetch ${CYAN}(System info tool)${NC}"
