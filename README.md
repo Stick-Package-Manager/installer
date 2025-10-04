@@ -349,3 +349,5 @@ For systems without internet:
 2. Transfer files to target system
 
 3. Modify install.sh to use local files instead of downloading
+
+© 2025 [ihatemustard](https://github.com/ihatemustard) & [Stick Package Manager contributors](https://github.com/Stick-Package-Manager/stick/people)
