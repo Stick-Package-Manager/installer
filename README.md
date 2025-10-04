@@ -1,6 +1,10 @@
+<div align="center">
+
 # Stick Universal Installer
 
 The official installation script for Stick Package Manager and related tools. This script provides an interactive, user-friendly way to install Stick, Stick Lite, and Stickfetch on Arch Linux and Arch-based distributions.
+</div>
+
 
 ## Features
 
